@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A CSE Data Science student from India</h3>
 
-- 🔭 I’m currently working on [Qoura Duplicate Question Pair Detection](https://github.com/Abhhisheksingh/question_pair.git)
+- 🔭 I’m currently working on [Deep Learning Framework for Automated Disease Diagnosis from Medical Imagery]
 
 - 🌱 I’m currently learning **R, Deep Learning, JavaScript, Natural Langugae Processing**
 
